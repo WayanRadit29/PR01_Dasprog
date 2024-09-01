@@ -14,6 +14,6 @@ if luas_halaman > luas_rumah:
     t_potong = luas_rumput / 2 #2 = kecepatan memotong rumput
     print("Jadi waktu untuk memotong rumput itu :", t_potong, "detik")
 else:
-    print("Maaf konteksnya disini luas halaman lebih dari luas rumah")
+    print("Maaf konteksnya disini luas halaman lebih dari luas rumah karena di soal menyatakan sebuah rumah terletak di sebuah halaman dan bukan sebuah halaman yang terletak di sebuah rumah")
     
 
